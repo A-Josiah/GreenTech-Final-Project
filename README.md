@@ -2,35 +2,36 @@
 
 ## Project Description
 
-GreenTech Solutions is a responsive multi-page website focused on sustainability and eco-friendly technology solutions. The website was created using HTML, CSS, and JavaScript and includes pages for company information, products, sustainability resources, and contact information.
+GreenTech Solutions is a responsive multi-page website focused on sustainability and eco-friendly technology solutions. The website was developed using HTML, CSS, and JavaScript and was designed to provide information about environmentally friendly technology, sustainability resources, and business solutions.
 
-The purpose of the project is to demonstrate front-end web development skills including responsive design, accessibility, navigation, forms, and modern webpage styling.
+The project demonstrates front-end web development skills including responsive design, accessibility, navigation systems, interactive JavaScript functionality, forms, and modern webpage styling.
 
 ---
 
 ## Live Site Link
 
-GitHub Pages URL:
+Website URL:
 
-https://a-josiah.github.io/A-Josiah-web-project/
+https://a-josiah.github.io/GreenTech-Final-Project/
 
 ---
 
 ## Features
 
 - Multi-page responsive website
-- Navigation menu linking all pages
-- Modern card-based layout
-- Responsive design for desktop and mobile devices
-- Accessibility features including:
-  - alt text on images
-  - semantic HTML structure
-  - labeled forms
-  - accessible navigation
-- Interactive JavaScript functionality
+- Mobile-friendly design
+- Accessible navigation and semantic HTML
+- Interactive JavaScript search functionality
 - Contact and newsletter signup forms
-- Embedded educational video
-- Eco-friendly and sustainability themed design
+- Embedded educational sustainability video
+- Modern card-based layout
+- Accessibility features including:
+  - alt text for images
+  - labeled forms
+  - responsive layouts
+  - readable color contrast
+- Product catalog and sustainability resources
+- Consistent styling across all pages
 
 ---
 
@@ -51,7 +52,7 @@ Open the `index.html` file in a web browser.
 Option 2:
 Visit the live GitHub Pages website:
 
-https://a-josiah.github.io/A-Josiah-web-project/
+https://a-josiah.github.io/GreenTech-Final-Project/
 
 ---
 
