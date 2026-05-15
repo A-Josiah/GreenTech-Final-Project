@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | GreenTech Solutions</title>
+
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/script.js" defer></script>
+</head>
+
+<body>
+
+    <header>
+        <nav aria-label="Main navigation">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section class="hero">
+            <h1>Contact GreenTech Solutions</h1>
+
+            <p>
+                Have questions about our sustainability solutions or eco-friendly
+                technology services? Contact our team today and we will be happy
+                to help.
+            </p>
+
+            <img class="about-image" src="images/office plants.jpg"
+                alt="Modern office workspace with plants and employees using technology">
+        </section>
+
+        <section>
+            <h2>Get in Touch</h2>
+
+            <div class="card-container">
+
+                <div class="card">
+                    <h3>Email</h3>
+                    <p>info@greentechsolutions.com</p>
+                </div>
+
+                <div class="card">
+                    <h3>Phone</h3>
+                    <p>(555) 123-4567</p>
+                </div>
+
+                <div class="card">
+                    <h3>Location</h3>
+                    <p>250 Greenway Drive, Albuquerque, NM 87101</p>
+                </div>
+
+            </div>
+        </section>
+
+        <section>
+            <h2>Contact Form</h2>
+
+            <form id="contactForm">
+
+                <label for="name">Full Name</label>
+                <input type="text" id="name" name="name"
+                    placeholder="Enter your full name">
+
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email"
+                    placeholder="Enter your email address">
+
+                <label for="business">Business Name</label>
+                <input type="text" id="business" name="business"
+                    placeholder="Enter your business name">
+
+                <label for="service">Service Interest</label>
+                <select id="service" name="service">
+                    <option value="">Select a service</option>
+                    <option value="energy">Energy Efficient Technology</option>
+                    <option value="recycling">Recycling Solutions</option>
+                    <option value="water">Water Conservation Systems</option>
+                    <option value="consulting">Sustainability Consulting</option>
+                </select>
+
+                <label for="message">Message</label>
+                <textarea id="message" name="message"
+                    placeholder="Type your message here"
+                    rows="6"></textarea>
+
+                <button type="submit">Submit Message</button>
+
+                <p id="formMessage" aria-live="polite"></p>
+
+            </form>
+        </section>
+
+        <section>
+            <h2>Newsletter Signup</h2>
+
+            <form id="newsletterForm">
+
+                <p>
+                    Subscribe to receive sustainability tips, environmental news,
+                    and updates about new GreenTech Solutions products.
+                </p>
+
+                <label for="newsletterEmail">Email Address</label>
+                <input type="email" id="newsletterEmail" name="newsletterEmail"
+                    placeholder="Enter your email">
+
+                <button type="submit">Sign Up</button>
+
+                <p id="newsletterMessage" aria-live="polite"></p>
+
+            </form>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 GreenTech Solutions. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
